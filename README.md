@@ -1,6 +1,6 @@
 🗂️ Educational Projects Portfolio
 
-Welcome to my Educational Projects Portfolio! This repository showcases the projects I worked on while pursuing my education. It reflects my journey, skills, and growth as a learner and developer. Each project highlights different aspects of my learning experiences and demonstrates my ability to tackle diverse challenges.
+Welcome to my Educational Projects Portfolio! This repository showcases the projects I worked on while pursuing my education. It reflects my journey, skills, and growth as a learner and data analyst. Each project highlights different aspects of my learning experiences and demonstrates my ability to tackle diverse challenges.
 
 🔍 Repository Overview
 This repository contains the following:
