@@ -1,18 +1,11 @@
-
-
-
 Problem Statement:
-
 A local restaurant organization would like to offer a website that recommends a restaurant to a user. The user will enter a type of food and an Eau Claire zip code and they will receive a recommendation on a restaurant. The user should have the option to quit and receive a thank you message. If the user enters an invalid entry or there are no restaurants to recommend, they user will receive a message stating that.  
 
 Nouns: website, user, restaurant, entry, message
-
 Verbs: recommend, enter, quit, receive
 
 
-
 Defining diagram:
- 
 Inputs: userType, userLocation
 
 Processing: 
@@ -27,15 +20,10 @@ message
 error message
 thank you message
 
-
 Flowchart: 
-
+included in docs/
  
-
-
-
 Pseudocode: 
-
 function RecommendRestaurant
 	initialize userType to ""
 	initialize userLocation to 
@@ -92,53 +80,28 @@ function RecommendRestaurant
 	
 	alert(message)
 		
-
 Call RecommendRestaurant
 
 
-
 Test Cases: 
-
 Variables: userType, userLocation, message, keepLooping
 
 Test Case 1:
-
 Input Values: Tacos, 54703
-
 Expected Result: Taco Grande 456 Red Street, Eau Claire.
-
 Actual Result: Taco Grande 456 Red Street, Eau Claire.
 
-
 Test Case 2:
-
 Input Values: Pizza, 54701
-
 Expected Result: Pizza Palace 456 Orange Road, Eau Claire.
-
 Actual Result: Pizza Palace 456 Orange Road, Eau Claire.
 
-
 Test Case 3:
-
 Input Values: Quit
-
 Expected Result: Thank you for using Restaurant Recommender.
-
 Actual Result: Thank you for using Restaurant Recommender.
 
-
 Test Case 4:
-
 Input Values: Pie, 54729
-
-Expected Result: Sorry, we don't have any restaurants to 					recommend. Please try again.
-
-Actual Result: Sorry, we don't have any restaurants to recommend. 			Please try again.
-
-
-
-
-
-
-
+Expected Result: Sorry, we don't have any restaurants to recommend. Please try again.
+Actual Result: Sorry, we don't have any restaurants to recommend. Please try again.
