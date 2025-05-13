@@ -28,7 +28,7 @@ This repository contains the following:
 
 🛠️ Technologies & Tools
 Here are some of the technologies and tools I've used in these projects:
-* Programming: Python, R, or other languages
+* Programming: Python, JavaScript or other languages
 * Data Analysis & Visualization: Power BI, Tableau, Excel, etc.
 * Version Control: Git & GitHub
 
@@ -36,7 +36,7 @@ Here are some of the technologies and tools I've used in these projects:
 
 Here are a few highlights:
 
-**Project Name 1:** Python Personal Finance Tracker Final Project
+**Python Personal Finance Tracker Final Project**
 
 **Brief description of the project:** 
 Developed a Python-based personal finance tracking application to manage and analyze individual expenses and income. The project involved designing a user-friendly interface for data input, categorizing transactions, and generating visualizations of financial trends. Incorporated features such as budget setting, savings goal tracking, and monthly expenditure reports.
@@ -47,8 +47,19 @@ Developed a Python-based personal finance tracking application to manage and ana
 * Applied problem-solving techniques to automate repetitive financial tasks and improve user convenience.
 * Enhanced knowledge of best practices in code efficiency and modular design.
 
+**JavaScript Restaurant Recommender Program**
+
+**Brief description of the project:** 
+Developed a JavaScript-based restaurant recommendation program designed to assist users in selecting dining options based on their food preference and zip code. The project utilizes interactive prompts to guide users through food type selection and location input, dynamically matching responses to pre-set restaurant recommendations. Integrated features for handling user input validation, ensuring flexibility in text formatting, and providing an intuitive quitting option
+
+**Key takeaways and skills demonstrated:**
+* Showcased proficiency in JavaScript logic flow, including loops, conditionals, and user input handling.
+* Strengthened skills in web development structure, organizing project files effectively for GitHub compatibility.
+* Applied problem-solving techniques to debug input recognition errors and improve program reliability.
+* Improved knowledge of best practices in directory structuring and file referencing for web applications.
 
 🤝 How to Use
+
 Browse through the project folders to explore their contents.
 
 Refer to the README.md file in each project folder for detailed information.
@@ -56,4 +67,5 @@ Refer to the README.md file in each project folder for detailed information.
 Clone or download this repository if you'd like to use any of these projects as references.
 
 🚀 About Me
+
 I am passionate about Data Analytics, and these projects reflect my dedication to learning and growth. I welcome feedback and suggestions—feel free to reach out!
