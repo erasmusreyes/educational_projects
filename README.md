@@ -22,6 +22,8 @@ This repository contains the following:
   
   ├── data/        # Datasets or resources (if applicable)
   
+  ├── images/      # Images (if applicable)
+  
   └── results/     # Outputs or visualizations (if applicable)
 
 🛠️ Technologies & Tools
